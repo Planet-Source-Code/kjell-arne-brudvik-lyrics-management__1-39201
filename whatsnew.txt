@@ -1,0 +1,32 @@
+WHAT TO COME
+ * Remember where the jukebox window was placed.
+ * Balance bar (doesn't update unless click - drag does not update)
+ * Entries list, wrong number.
+ * Sort by ARTIST -> ALBUM -> SONG
+
+VERSION: 1.0 - Rev: 7
+ * Option to turn on/off oscilloscope, as it slowed down some PC's.
+
+VERSION: 1.0 - Rev: 6
+ * Add all songs in a directory.
+ * Right click song - Search for text option.
+ * Fixed some minor bugs.
+
+VERSION: 1.0 - Rev: 5
+ * New Jukebox, more flexibillity towards song text + playback.
+ * Added possibillity to double click a song, and auto start the jukebox.
+ * Added the tray icon option, add the main screen / jukebox to tray.
+
+VERSION: 1.0 - Rev: 4
+ * Fixed .SNG not being deleted when removing a song.
+ * Some minor fixes towards layout.
+
+VERSION: 1.0 - Rev: 3
+ * Runtime error when loading player.
+ * Readonly textbox, you need to enter edit mode to edit.
+ * Save works correct now, it doesn't append.
+ * Display renamed to refresh.
+ * Fixed line break, as some song text came with unix formatting, now it formats properly.
+
+VERSION: 1.0 >
+ * Just a preliminary release, lots had to be fixed, so no need in writing this here.
